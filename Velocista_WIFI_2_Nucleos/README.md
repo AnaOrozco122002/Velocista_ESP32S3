@@ -46,7 +46,7 @@ Este proyecto implementa un sistema de control para un robot seguidor de línea 
 
 Instala desde el Library Manager de Arduino IDE:
 
-- `QTRSensors`
+- `QTRSensors16`
 - `ESP32Servo`
 - `WiFi.h`
 

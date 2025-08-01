@@ -1,13 +1,13 @@
 # 🚀 Código del Velocista *Sollow*
 
-### 🤖 Proyecto desarrollado por el **Semillero de Robótica**  
+### 🤖 Proyecto desarrollado para **Semillero de Robótica**  
 📍 *Universidad del Cauca*
 
 ---
 
 ## 📜 Descripción General
 
-Este repositorio contiene el código para un robot velocista con **turbina y control inalámbrico**, desarrollado usando una placa **XIAO ESP32C3**.  
+Este repositorio contiene el código para un robot velocista con **turbina y control inalámbrico**, desarrollado usando una placa **XIAO ESP32S3**.  
 Fue escrito en el **IDE de Arduino (versión 2.3.5)**, utilizando la plataforma **ESP32 (versión 2.0.11)**.
 
 🔗 Para configurar tu IDE con placas ESP32, agrega el siguiente enlace al Gestor de URLs adicionales:  
