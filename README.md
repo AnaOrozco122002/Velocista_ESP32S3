@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 ## 🧩 Componentes Principales
 
-### 📍 Microcontrolador: **XIAO ESP32C3**
+### 📍 Microcontrolador: **XIAO ESP32S3**
 
 ![](https://github.com/AnaOrozco122002/Velocista/blob/master/images/xiaopines.jpg)
 
